@@ -12,4 +12,5 @@ A simple Python implementation of the classic Rock Paper Scissors game where you
 2. Clone this repository
 3. Run the game:
 ```bash
+cd rock-paper-scissors
 python rps_game.py
