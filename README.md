@@ -9,12 +9,10 @@ A simple Python implementation of the classic Rock Paper Scissors game where you
 
 ## How to Run
 1. Make sure you have Python installed
-2. Clone this repository
+2. Clone this repository & Run the game:
 
 ```bash
 git clone https://github.com/kanai6344/rock-paper-scissors.git
 
-3. Run the game:
-```bash
-cd rock-paper-scissors
+cd rock-paper-scissors  
 python rps_game.py
