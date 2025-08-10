@@ -10,7 +10,7 @@ A simple Python implementation of the classic Rock Paper Scissors game where you
 
 ## Live Demo
 
-You can view a live version of this tool at [(https://kanai6344.github.io/rock-paper-scissor/)]
+You can view a live version of this tool at [(https://kanai6344.github.io/rock-paper-scissors/)]
 
 ## How to Run
 1. Make sure you have Python installed
